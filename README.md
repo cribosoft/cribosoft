@@ -3,7 +3,7 @@
 ---
 ### I have experience working as a Data Analist with focus on ETL pipelines and process.  
 ### I discovered the transformation of raw data into strategic information and I feel increasingly attracted to this branch .  
-### I like to play with SQL and Python (pandas, matplotlib) to manipulate databases and create KPIs. 
+### I enjoy playing with SQL and Python (pandas, matplotlib) to manipulate databases and create KPIs, build dashboards, and respond to business needs. 
 ---
 ###  Representative Projects
 
