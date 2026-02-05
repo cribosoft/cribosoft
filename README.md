@@ -1,7 +1,9 @@
-# HI! I AM Cribosoft 👋 
+# HI! I Am Cristian Bogdan 👋 
 ### Data Analyst | Python & SQL Enthusiast
-I am passionate about transforming raw data into strategic insights. With a strong background in financial analysis and exploring historical data sets, I focus on using Python and SQL to solve complex business problems
-
+---
+### I have experience working as a Data Analist with focus on ETL pipelines and process.  
+### I discovered the transformation of raw data into strategic information and I feel increasingly attracted to this branch .  
+### I like to play with SQL and Python (pandas, matplotlib) to manipulate databases and create KPIs. 
 ---
 ###  Representative Projects
 
