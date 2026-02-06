@@ -18,7 +18,7 @@
 * **Technologies:** Python, Pandas.
 * **Highlighted skills:** Exploratory Data Analysis (EDA), identifying critical indicators (KPIs), interpreting financial data.
 
-  #### [Portfolio Project: Data Analyst Portfolio](https://github.com/cribosoft/PortfolioProjects)
+#### [Portfolio Project: Data Analyst Portfolio](https://github.com/cribosoft/PortfolioProjects)
 * **Ongoing project**
 
 ---
