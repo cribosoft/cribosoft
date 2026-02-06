@@ -1,5 +1,5 @@
 # HI! I Am Cristian Bogdan 👋 
-### Data Analyst | Python & SQL Enthusiast
+## Data Analyst | Python & SQL Enthusiast
 ---
 ### I have experience working as a Data Analist with focus on ETL pipelines and process.  
 ### I discovered the transformation of raw data into strategic information and I feel increasingly attracted to this branch .  
